@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.catamilacademy.org/">Affiliations</a> |  Fremont, Ca | 510-387-4149 | <i>"Life isn’t about getting and having, it’s about giving and being." &mdash;Kevin Kruse </i>
 
 profile:
   align: right
   image: prof_pic_color.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>510 387 4149</p>
-    <p>764 Arikara Ct</p>
-    <p>Fremont, CA 94539</p>
+  image_circular: true # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
