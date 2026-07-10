@@ -1,151 +1,171 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Indira Jambulingam
+  label: Technical Writer
+  email: indirajambu@gmail.com
+  location: Silicon Valley
+  image: "prof_pic_color.jpg"
+  summary: "Accomplished content strategist who grasps technical concepts and reflects them in a user-centric style. Proven success streamlining authoring and publishing processes, with a deep understanding of SEO and analytics, multi-tasking and working seamlessly with global teams."
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: purplelitemij
     - network: LinkedIn
-      username: example
+      username: indirajambulingam
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
+    street: 764 Arikara Ct
+    city: Fremont
     region: California
-    postalCode: CA 94115
+    postalCode: CA 94539
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: De Anza College
+        location: Cupertino, CA
+        area: Technical Communication
+        studyType: Certification
+        start_date: ""
+        end_date: ""
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Armstrong University
+        location: Berkeley, CA
+        area: Management
+        studyType: M.B.A.
+        start_date: ""
+        end_date: ""
+
+      - institution: Stella Maris College
+        location: Chennai, India
+        area: Sociology
+        studyType: B.A.
+        start_date: ""
+        end_date: ""
+
+      - institution: Continuing Education
+        area: SEO Fundamentals
+        studyType: Certificate
+        start_date: ""
+        end_date: ""
+
+      - institution: Continuing Education
+        area: User Research Analysis
+        studyType: Certificate
+        start_date: ""
+        end_date: ""
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: JPMorgan Chase
+        position: Content Designer
+        location: Palo Alto, CA
+        start_date: 2021-06
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Owns Developer Documentation across JET (JPMC Engineering Tools).
+          - Led migration of legacy documentation into a unified, governed documentation portal, building a tracking framework to measure migration scope, cross-references, and effort across the full product line.
+          - Created, operated, and maintained a docs-as-code repository for the entire product line of 20+ SDLC tools.
+          - Authored and maintained a shared style guide and taxonomy to unify content voice and structure across a multi-contributor environment.
+          - Established a Jira-based feedback and metrics pipeline to prioritize, track, and resolve 95+ documentation tickets, reducing recurring support inquiries.
+          - Created a documentation-request intake process using Jira Issue Collectors, reducing email volume and giving 20+ engineering teams a scalable, repeatable workflow.
+          - Hosted recurring office hours engaging 2,500+ users, converting feedback and SME input into targeted knowledge updates.
+          - Partnered with engineers and PMs through 1:1s and training sessions, onboarding them as content contributors and building deep expertise in the firm's developer toolchain.
+          - Reviewed, created, or updated 1,500+ pieces of content annually, ensuring continuous accuracy rather than periodic cleanup.
+          - Made documentation data-driven by systematically gathering and implementing customer feedback via Adobe Analytics.
+          - Adopted AI-assisted authoring tools to improve content clarity and scale knowledge production.
+          - Independently troubleshot and maintained uptime of deployment pipelines to ensure successful docs-as-code releases.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Roku Inc. (Contract)
+        position: Content Strategist
+        location: San Jose, CA
+        start_date: 2020-01
+        end_date: 2021-05
         highlights:
-          - Description 1.
-          - Description 2.
+          - Authored and owned user documentation for Roku Platform and Products, with emphasis on Roku Pay.
+          - Collaborated with cross-functional teams (Product, UX, Engineering, Legal) on content reviews.
+          - Enhanced content discoverability using SEO best practices; analyzed analytics to understand support call drivers.
+          - Architected a content process giving visibility into editorial tasks and blockers.
+          - Created a style guide for the knowledge base and terminology nomenclature to improve usability.
+          - Worked with the International Payments team to design and localize content across geographies, interfacing with localization vendors and LQA.
+          - Participated in usability studies to shape knowledge base articles and on-screen text; reported on content metrics with leadership.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Delphix Corp
+        position: Staff Technical Writer
+        location: Redwood City, CA
+        start_date: 2018-07
+        end_date: 2020-01
+        highlights:
+          - Architected and delivered single-source documentation, enhancing searchability for content strategy.
+          - Designed and architected the Knowledge Base for the Delphix Support portal.
+          - Designed an improved review workflow for Engineering and streamlined the KB review process.
+          - Created a style guide and authoring guidance for Engineering-authored knowledge content.
+          - Managed the review and publish lifecycle of knowledge articles; reported metrics to Customer Support Management.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Model N Systems
+        position: Principal Technical Writer
+        location: Redwood Shores, CA
+        start_date: 2010
+        end_date: 2018-06
+        highlights:
+          - Planned and delivered single-source documentation for Model N's Revenue Enterprise and Cloud-based SaaS applications.
+          - Automated the process to extract DevOps content per release.
+          - Migrated single-source content from FrameMaker/Confluence to MindTouch; architected content for the doc portal across product verticals.
+          - Served as Doc Portal administrator and primary contact for customer enablement; led and mentored an offshore doc team.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Accela Inc. (Contract)
+        position: Technical Writer
+        location: San Ramon, CA
+        start_date: 2010
+        end_date: 2010
+        highlights:
+          - Wrote and delivered Admin User Guides (Help and Online); reviewed on-screen text for localization.
+
+      - company: ACCESS Systems Inc. / PalmSource Inc.
+        position: Sr. Technical Writer
+        location: Sunnyvale, CA
+        start_date: 2003
+        end_date: 2009
+        highlights:
+          - Generated content for the ALP (ACCESS Linux Platform) application suite, including documentation and on-screen text.
+          - Led global doc projects and localization processes, including British English translation via SDL Trados.
+          - Created the company style guide for unity and consistency across documentation and branding.
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Boy Scouts of America
+        position: "Volunteer, Troop 103 & Troop 111"
+        start_date: 2009
+        end_date: present
+        summary: Volunteer for Troop 103, managing and scheduling events; responsible for fundraisers for Troop 111.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - company: California Tamil Academy
+        position: Liaison Officer, Redmond Tamil Schools
+        start_date: 2008
+        end_date: present
+        summary: Liaison officer for Redmond Tamil Schools, affiliated with the California Tamil Academy, promoting the Tamil language internationally.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Applications
+        level: Advanced
+        icon: fa-solid fa-toolbox
+        keywords: "Markdown, Zendesk, MindTouch, Confluence, Lucid, Adobe Suite, FrameMaker, Illustrator, Visio, Photoshop, RoboHelp, Slack, Looker, Smartling, SDL Trados, XML/HTML/XHTML, Perforce, Git"
+
+      - name: AI Tools
+        level: Beginner
+        icon: fa-solid fa-robot
+        keywords: "GitHub Copilot, Claude Code"
+
+      - name: "Bug Tracking & PM"
+        level: Advanced
+        icon: fa-solid fa-clipboard-list
+        keywords: "ServiceNow, Jira, TeamTrack, SD Tracker, Bugzilla, Rally, MS Project"
+
+      - name: Operating Systems
+        level: Advanced
+        icon: fa-solid fa-desktop
+        keywords: "Windows, Mac, Linux"
 
     Languages:
-      - name: German
+      - name: Tamil
         summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
@@ -159,31 +179,3 @@ cv:
         date: 2018-01-01
         issuer: Stanford University
         icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
