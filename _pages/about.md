@@ -23,5 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. <!--Link to your favorite [subreddit](https://www.reddit.com). --> 
+15+ years of experience designing and scaling documentation systems for complex cloud and enterprise software. I specialize in information architecture, API documentation, and developer guides that improve developer experience, content usability, and product adoption — backed by a strong grasp of SEO and analytics. My work centers on leading enterprise documentation strategy: consolidating content into unified developer repositories, defining documentation KPIs, and building standards and templates that reduce support demand through measurable feedback loops. I partner closely with Product, Engineering, and UX teams, and apply AI-native tools like Claude Code to improve operational efficiency.
+
+My interests include content design, change management, and improving communication and alignment across teams and customers. I’m driven by structure, efficiency, and continuous improvement — always looking for the next process or tooling gap to close.
+
+. <!--Link to your favorite [subreddit](https://www.reddit.com). --> 
 
