@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://purplelitemij.github.io/resume2026/sitemap.xml
+Sitemap: https://purplelitemij.github.io/portfolio2026/sitemap.xml
