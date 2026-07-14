@@ -13,8 +13,5 @@ profiles:
     image: df_profilepic.png
     content: about_df.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>phone: (951) 473 4533</p>
-      <p>email: danielle.ferrigno@yahoo.com</p>
-      <p>Plano, TX</p>
+    
 ---
