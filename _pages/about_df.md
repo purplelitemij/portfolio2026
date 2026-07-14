@@ -1,14 +1,16 @@
-<!--This should be used to say what your relationship with this person, your workings...-->
+### How we know each other
 
-Relationship: Colleage
-Company: JPMorgan Chase
+**Relationship:** Colleague
 
-<Add description here>
+**Company:** JPMorgan Chase
+
+
+We've worked together for four+ years, collaborating closely as writers. Together, we co-architected the content for JPMC's enterprise toolchain — including the Engineers Channel, a static documentation portal. Danielle contributed to both the narrative direction and structural design of the work, and her reference below speaks to that collaboration.
 
 ### Contact information
 
-| Name              | Phone         | Email              |
-| ----------------- | ------------ | --------------------------- |
-| Danielle Ferrigno | (951)4734533 |  JPMorgan Chase   | danielle.ferrigno@yahoo.com |
-|                   |              |     |                             |
+| Name              |Role | Phone         | Email              |
+| ----------------- | ------------ | --------------------------- | ------|
+| Danielle Ferrigno | Content designer/Technical writer | (951)4734533 | danielle.ferrigno@yahoo.com |
+|                   |              |                            |  |
 
