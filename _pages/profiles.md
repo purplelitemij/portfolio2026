@@ -13,5 +13,11 @@ profiles:
     image: df_profilepic.png
     content: about_df.md
     image_circular: true # crops the image to make it circular
+
+  - align: left
+    content: about_cls.md
+    image_circular: true # crops the image to make it circular
+
+  
     
 ---
