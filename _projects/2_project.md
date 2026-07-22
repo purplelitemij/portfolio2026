@@ -1,11 +1,10 @@
 ---
 layout: page
-title: CI Release Management
-description: managing Continuous Itegration (CI) release end-to-end
+title: Release Management
+description: managing end-to-end release notes formation and publication
 img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: releases
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Communications
+description: A collection of communications supporting feature changes and releases.
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: administration
 ---
 
 Every project has a beautiful feature showcase page.

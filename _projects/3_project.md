@@ -1,12 +1,13 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Continuous Improvement Tools
+description: A collection of documentation I produced for new feature releases and major platform migrations.
 img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
 importance: 3
-category: work
+category: feature
 ---
+<!-- Buildi, Jet Identity, Gradle Develcity.   -->
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Analytics
+description: Sample initiatives aimed at better understanding customer behavior and engineering needs.
 importance: 3
-category: fun
+category: analytics
 ---
 
 Every project has a beautiful feature showcase page.
