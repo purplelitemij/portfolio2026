@@ -37,12 +37,14 @@ cv:
         studyType: B.A.
 
       - institution: Continuing Education
+        location: Online
         area: SEO Fundamentals
         studyType: Certificate
         start_date: ""
         end_date: ""
 
       - institution: Continuing Education
+        location: Online
         area: User Research Analysis
         studyType: Certificate
 
