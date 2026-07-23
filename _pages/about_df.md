@@ -11,6 +11,6 @@ Danielle and I worked together for four+ years, collaborating closely as writers
 
 | Name              |Role | Phone         | Email              |
 | ----------------- | ------------ | --------------------------- | ------|
-| Danielle Ferrigno| Content Designer/Technical Writer | (951)473 4533 | [donniele.ferrigno@yahoo.com](mailto:danielle.ferrigno@yahoo.com) |
+| Danielle Ferrigno| Content Designer/Technical Writer | (951)473 4533 | [danielle.ferrigno@yahoo.com](mailto:danielle.ferrigno@yahoo.com) |
 |                   |              |                            |  |
 
