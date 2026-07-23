@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Continuous Improvement Tools
-description: A collection of documentation I produced for new feature releases and major platform migrations.
+title: <Sample Feature> Documentation
+description: A collection of documentation across <the SDLC>, I produced for new feature, enhancements, and major platform migrations.
 img: assets/img/7.jpg
 importance: 3
 category: software-development
