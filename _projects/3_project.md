@@ -4,7 +4,7 @@ title: Continuous Improvement Tools
 description: A collection of documentation I produced for new feature releases and major platform migrations.
 img: assets/img/7.jpg
 importance: 3
-category: feature
+category: software-development
 ---
 <!-- Buildi, Jet Identity, Gradle Develcity.   -->
 

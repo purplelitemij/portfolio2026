@@ -4,7 +4,7 @@ title: Communications
 description: A collection of communications supporting feature changes and releases.
 img: assets/img/1.jpg
 importance: 3
-category: administration
+category: software-development
 ---
 
 Every project has a beautiful feature showcase page.

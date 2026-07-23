@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentation Intake
-description: managing  end to end process in understanding feature development for documnetation
+description: managing end to end process in understanding feature development for documnetation
 img: assets/img/12.jpg
 importance: 1
 category: administration

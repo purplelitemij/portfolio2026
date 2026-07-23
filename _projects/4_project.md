@@ -3,7 +3,7 @@ layout: page
 title: Analytics
 description: Sample initiatives aimed at better understanding customer behavior and engineering needs.
 importance: 3
-category: analytics
+category: administration
 ---
 
 Every project has a beautiful feature showcase page.

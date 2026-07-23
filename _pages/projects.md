@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of work that I am proud of...
 nav: true
 nav_order: 3
-display_categories: [administration, engineering, feature, releases, analytics]
+display_categories: [administration, software-development]
 horizontal: false
 ---
 

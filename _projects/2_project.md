@@ -4,7 +4,7 @@ title: Release Management
 description: managing end-to-end release notes formation and publication
 img: assets/img/3.jpg
 importance: 2
-category: releases
+category: administration
 ---
 
 Every project has a beautiful feature showcase page.
