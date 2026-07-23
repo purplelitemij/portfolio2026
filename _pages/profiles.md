@@ -4,7 +4,7 @@ permalink: /references/
 title: References
 description: colleagues and mentors who have collaborated and changed my career.
 nav: true
-nav_order: 7
+nav_order: 3
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
