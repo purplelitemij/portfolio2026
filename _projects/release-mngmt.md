@@ -1,16 +1,14 @@
 ---
 layout: page
 title: Release Management
-description: managing end-to-end release notes formation and publication
+description: Managing end-to-end release notes formation and publication
 importance: 3
 category: administration
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+A large part of my focus as a writer has been working with the engineering teams to publish their release artifacts and release notes.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To highlight the Release Management process and my role in working with SMEs and the Release Engineer, to create the content for teh release notes. I supported multiple teams, one of which was the Continuous Integration team which had a weekly release cadence.
 
     ---
     layout: page
