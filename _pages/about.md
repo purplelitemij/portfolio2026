@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /about/
-subtitle: <a href="https://www.catamilacademy.org/">Affiliations</a> |  Fremont, Ca | 510-387-4149 | 
-
-<i>"Life isn’t about getting and having, it’s about giving and being." &mdash;Kevin Kruse </i>
+subtitle: Fremont, Ca | 510-387-4149 | <i>"Life isn’t about getting and having, it’s about giving and being." &mdash;Kevin Kruse </i>
 
 profile:
   align: right
