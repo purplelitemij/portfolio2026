@@ -2,8 +2,7 @@
 layout: page
 title: Release Management
 description: managing end-to-end release notes formation and publication
-img: assets/img/3.jpg
-importance: 2
+importance: 3
 category: administration
 ---
 

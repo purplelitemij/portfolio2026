@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Documentation Intake
-description: managing end to end process in understanding feature development for documnetation
-img: assets/img/12.jpg
+description: Managing end-to-end documentation process involved in feature development.
 importance: 1
 category: administration
 ---
 
+
+<!-->
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -78,3 +79,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+-->

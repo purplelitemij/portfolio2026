@@ -24,23 +24,17 @@ cv:
       - institution: De Anza College
         location: Cupertino, CA
         area: Technical Communication
-        studyType: Certification
-        start_date: ""
-        end_date: ""
+        studyType: Certification   
 
       - institution: Armstrong University
         location: Berkeley, CA
         area: Management
         studyType: M.B.A.
-        start_date: ""
-        end_date: ""
 
       - institution: Stella Maris College
         location: Chennai, India
         area: Sociology
         studyType: B.A.
-        start_date: ""
-        end_date: ""
 
       - institution: Continuing Education
         area: SEO Fundamentals
@@ -51,8 +45,6 @@ cv:
       - institution: Continuing Education
         area: User Research Analysis
         studyType: Certificate
-        start_date: ""
-        end_date: ""
 
     Experience:
       - company: JPMorgan Chase
