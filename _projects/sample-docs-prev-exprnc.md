@@ -30,12 +30,22 @@ Focus: Knowledge Base strategy and process documentation.
 
 ### Roku, Inc - Content Strategist
 
-Focus: Customer Success & KNowledge Base strategy.
+Focus: Content & Knowledge Base strategy.
 
 - Refer to content in [Roku Support](https://support.roku.com/en-us/)
+
+The following screen captures reference some of the knowledgebase/ FAQs that were authored.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/roku-support-page.png" title="roku_support_page" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ContentBlock_ZD.png" title="content_block_zd" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/FAQ_Confluence_Organization.png" title="faq_confluence_organization" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
+
+
