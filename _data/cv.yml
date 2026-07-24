@@ -1,10 +1,10 @@
 cv:
   name: Indira Jambulingam
-  label: Technical Writer
+  label: Content Designer 
   email: indirajambu@gmail.com
   location: Silicon Valley
   image: "prof_pic_color.jpg"
-  summary: "Accomplished content strategist who grasps technical concepts and reflects them in a user-centric style. Proven success streamlining authoring and publishing processes, with a deep understanding of SEO and analytics, multi-tasking and working seamlessly with global teams."
+  summary: "Accomplished content strategist and writer who grasps technical concepts and reflects them in an user-centric style. Proven success streamlining authoring and publishing processes, with a deep understanding of SEO, analytics, and AI."
 
   social_networks:
     - network: GitHub
