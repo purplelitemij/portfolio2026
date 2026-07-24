@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Release Management
-description: Managing end-to-end release notes formation and publication
+description: Managing end-to-end formation and publication of release notes
 importance: 3
 category: administration
 ---
