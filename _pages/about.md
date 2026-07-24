@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
+permalink: /
 subtitle: Fremont, Ca | 510-387-4149 | <i>"Life isn’t about getting and having, it’s about giving and being." &mdash;Kevin Kruse </i>
 
 profile:
