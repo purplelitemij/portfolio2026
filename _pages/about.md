@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Fremont, Ca | 510-387-4149 | <i>"Life isn’t about getting and having, it’s about giving and being." &mdash;Kevin Kruse </i>
+subtitle: Fremont, Ca | 510-387-4149 | 
 
 profile:
   align: right
@@ -20,6 +20,20 @@ latest_posts:
 15+ years of experience designing and scaling documentation systems for complex cloud and enterprise software. I specialize in information architecture, API documentation, and developer guides that improve developer experience, content usability, and product adoption — backed by a strong grasp of SEO and analytics. My work centers on leading enterprise documentation strategy: consolidating content into unified developer repositories, defining documentation KPIs, and building standards and templates that reduce support demand through measurable feedback loops. I partner closely with Product, Engineering, and UX teams, and apply AI-native tools like Claude Code to improve operational efficiency.
 
 My interests include content design, change management, and improving communication and alignment across teams and customers. I’m driven by structure, efficiency, and continuous improvement — always looking for the next process or tooling gap to close.
+
+### FAQ Documentation — Roku
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/FAQ_Confluence_Organization.png" title="faq_confluence_organization" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/FAQ_InfoBlock_Confluence.png" title="faq_infoblock_confluence" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ContentBlock_ZD.png" title="contentblock_zd" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <!--Link to your favorite [subreddit](https://www.reddit.com). --> 
 

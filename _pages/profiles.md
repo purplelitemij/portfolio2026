@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /references/
 title: References
-description: colleagues and mentors who have collaborated and changed my career.
+description: Colleagues and mentors I have collaborated with who have also enhanced my technical knowledge.
 nav: true
 nav_order: 3
 

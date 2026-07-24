@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /projects/
-description: A collection of work that I am proud of...
+description: A collection of work that I am proud of...This includes samples and work from current and past experiences. 
 nav: true
 nav_order: 2
 display_categories: [administration, software-development,]
