@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Documentation Intake
-description: Managing end-to-end documentation process involved in feature development.
-importance: 1
+description: Managing end-to-end documentation processes involved in feature development.
 category: administration
 ---
 

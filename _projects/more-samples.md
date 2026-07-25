@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Samples from Past Experiences
+title: More samples
 description: A collection of sample documentation supporting past tech docs, knowledgebase, and customer success experiences.
-importance: 5
+importance: 8
 category: software-development
 ---
 This section list a few samples from my prior tech writing experience. Note that some of these are proprietary information and may be water marked.

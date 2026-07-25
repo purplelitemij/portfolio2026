@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Started
+title: Onboarding
 description: A collection of onboarding documentation produced for new feature, enhancements, and/or major platform migrations.
 importance: 4
 category: software-development

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Configuration Guide
+title: Configuration
 description: This is a sample configuration guide I wrote for an audience of 10,000+ users.
-importance: 4
+importance: 6
 category: software-development
 ---
 The sample below is a configuration guide written during my tenure at JPMorganChase. Note that all proprietary information has been removed.
