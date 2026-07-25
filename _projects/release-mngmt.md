@@ -17,7 +17,7 @@ We noticed that not all code changes needed to be release-noted, as some were in
 
 To run through the process created for extraction of the release notes, I created a Confluence page that captured the dev task, developer, changes, impact to the user, and related doc impact (new feature addition/modification). We noticed that every dev change did not require documentation updates. The developers worked closely with me to understand the doc deliverables, which made it easier for us to collaborate and show the importance of documentation inline with code changes (user guides, configurations, communication to external teams, developer guides).
 
-## Release Notes cadence
+## Release cadence
 
 <strong>The following process became a part of the bi-weekly scrum:</strong>
  - Identify the dev story that required documentation. 
