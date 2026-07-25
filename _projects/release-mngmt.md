@@ -36,7 +36,7 @@ To run through the process created for extraction of the Release Notes, I create
 
  **The weekly release tracked:**
   - Dev tasks were merged and ready for the weekly release. Release engineer cuts the release.
-  - Related doc changes review targeting the release. The related doc task would be merged and pushed to production **only on the day of the release**.
+  - Related doc changes review targeting the release. The related doc task would be merged and pushed to production only on the day of the release.
   - Release review meeting scheduled weekly for a go/no go. SMEs, Product team, and Docs participated to ensure accuracy and completion of feature changes. Any change that required extra effort for communication was handled at this time.
   - The following areas are discussed in detail:
     - Release manager and their confidence in the release (tested and ready)

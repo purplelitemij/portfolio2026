@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Installing Buildi CLI on LVDI"
-description: Sample platform-specific install guide, referenced from the Onboarding sample.
+description: Sample platform-specific install guide, referenced from the Installation sample.
 ---
-Referenced from [Onboarding]({{ "/projects/onboarding/" | relative_url }}). Note that all proprietary information has been removed.
+Referenced from [Installation]({{ "/projects/installation/" | relative_url }}). Note that all proprietary information has been removed.
 
 ## Overview
 
