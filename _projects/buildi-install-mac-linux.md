@@ -3,7 +3,7 @@ layout: page
 title: "Installing Buildi CLI on Mac or Linux"
 description: Sample platform-specific install guide, referenced from the Installation sample.
 ---
-Referenced from [Installation]({{ "/projects/installation/" | relative_url }}). Note that all proprietary information has been removed.
+<!--Referenced from [Installation]({{ "/projects/installation/" | relative_url }}). Note that all proprietary information has been removed.-->
 
 ## Overview
 

@@ -5,7 +5,7 @@ description: A collection of guides I wrote for new feature enhancements and/or 
 importance: 5
 category: software-development
 ---
-The sample below is an installation guide written during my tenure at JPMorganChase. Note that all proprietary information has been removed.
+<i>The sample below is an installation guide written during my tenure at JPMorganChase. Note that all proprietary information has been removed.</i>
 
 
 ## Overview
