@@ -5,6 +5,7 @@ description: Sample initiatives aimed at better understanding customer behavior 
 importance: 2
 category: administration
 ---
+<i>The sample data was used to create an analytics exposure that supported documentation updates, reducing customer feedabck during my tenure at JPMorganChase. </i>
 
 As part of understanding how engineers actually used our documentation, I partnered with analytics to instrument a documentation portal (referred to below by the fictional name **Nimbus Docs**; the figures throughout are illustrative, not real production data) and track both where readers dropped off and what they were searching for but couldn't find. The two dashboards below are mock-ups in that same style: one on page traffic and usage, the other on search behavior and how it reshaped our content organization.
 
