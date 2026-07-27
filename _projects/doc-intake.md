@@ -7,99 +7,61 @@ category: administration
 
 ## Overview
 
-This section will highlight my working with Engineering (SMEs) to bundle the product/feature release. As a writer for more than 15 years, I know that it is immportant and constructive to work in unison with the product and engineering teams. Many a time I ahve encountered that changes to code (feature) is not always dcumented. It could be a miss on any ones part, but identifying the gap and fixing the loop has been key to support mitigation.
+This section highlights my work with Engineering (SMEs) to bundle documentation into product/feature releases. As a writer for more than 15 years, I've learned it's important and constructive to work in unison with the product and engineering teams. More than once I've seen a code change ship without its documentation update — often not anyone's fault in particular, but identifying the gap and closing the loop has been key to reducing support escalations.
 
-During my time at JPMC, I supported 20+ teams, but each at a differnt level of connect. Teams were global and it was not always possible to attend all agile ceremonies, so I chose to attend teh ones that were on my timezone and those with most change (by priority). 
+During my time at JPMC, I supported 20+ teams, each at a different level of engagement. Teams were global, so it wasn't always possible to attend every agile ceremony — I prioritized the ones in my timezone and the ones with the most feature changes in flight.
 
-I created the same intake process for all teams to streamline my work and being able to track it all at one time. Engineering planning was key to understand teh upcoming chnages that would lead to new content, content updates, removing content,... Our content was architected into Getting Started, User Guides, Concepts, Reference, and Troubleshooting.
+I built the same intake process for every team so I could streamline my own work and track it all in one place. Engineering planning was key to understanding upcoming changes that would lead to new content, content updates, and content removals. Our content was organized into Getting Started, User Guides, Concepts, Reference, and Troubleshooting.
 
-During the plannings, a Dev task was discussed and was labeled for documentation as "doc-required". This made it easier to craete a rule in Jira to extract all stories impacted for documentation. During this time, I also noticed some discrepancies that we had to fix.
+During planning, a dev task would be discussed and labeled for documentation as "doc-required." That made it easy to build a Jira rule that could extract every story with a documentation impact. Along the way, I also noticed a few recurring gaps worth fixing.
 
-## Identifiying missing documentation
+### Identifying missing documentation
 
-Support tickets and Page credit metrics sometimes showed that we had missed content updates for configurations, code samples, APIs.... This wasn't very common but definitely had to be fixed. Engineering would miss the label "doc-required" hence forget the need for a doc update. This was caught during a release meeting where we reviewed the release go/no-go. This would create trailing documentation.
-This became unacceptable as "Docs-as-code" meant releasing code and docs together, trying to accomplish a more robust understanding of teh feature changes.
+Support tickets and content metrics sometimes showed that we missed updates for configurations, code samples, or APIs. It wasn't common, but it happened enough to address directly: Engineering would occasionally miss the "doc-required" label, so the need for a doc update went unnoticed. It usually surfaced during release go/no-go meetings or through SME check-ins — by which point the documentation was trailing the release instead of shipping alongside it.
 
-We came up with a doc intake form that we linked into all Engineering teams dashboards and roadmaps. The below screenshot details what Documentation needed. 
+That wasn't acceptable, since "docs-as-code" meant releasing code and documentation together, in service of a more complete understanding of each feature change.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Doc intake
-</div>
+## Documentation request intake
 
-THis definitely forced eyes on the issue as well, it drove priorities, I was able to point teams to this intake form along with using a "doc-required" label to keep docs and code in sync. The intake form provided specifics for:
-- Documentation Priority
-- Worklow process details (providing SME, Product Mananger, Related references,....)
-- New documnttaion request
-- Update to existing content
-- Hotfix
+The gap above was really a relationship gap: Engineering owned the code and the timeline, and I owned the documentation, but nothing formally connected the two. The doc intake process closed that gap — it's the bridge between Engineering and the Technical Writer, giving every code change a clear, trackable path to its documentation update instead of relying on someone remembering to loop me in.
 
+An intake form, paired with the "doc-required" label, was the mechanism: Engineering flagged a change as soon as it was known to need documentation, and the label kept that request visible on my side from planning through release, rather than surfacing only when something was already missing. The intake form captured:
+- Documentation priority
+- Workflow process details (SME, Product Manager, related references)
+- New documentation requests
+- Updates to existing content
+- Hotfixes
 
+### Requesting a documentation update
 
+Here's a simplified version of the request-intake guide I published for Engineering, Product Managers, and Customer Support teams so they'd always know where and how to loop in the Technical Writer.
 
+This gave Engineering, Product Managers, and Customer Support teams a single place to notify the Technical Writer of documentation needs. Before submitting a request, consider:
 
-<!-->
-E
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- What is the priority? (If High, what story will it take precedence over?)
+- Who is/are the SME(s) for the subject matter?
+- What is the context? (How did this come to be known? What's the background?)
+- Where is any related material — Word files, Confluence pages, etc. — and its source, if available?
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Priority is defined as follows:
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+| Priority | Definition |
+|---|---|
+| Critical | Needs to be completed within the current sprint. This is treated as a spike — something else gets bumped to the next sprint to make room. |
+| High | Needs to be completed within the next sprint. |
+| Medium | Needs to be completed within two sprints. |
+| Low | Can be completed at any time, within reason. |
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Workflow for doc-intake
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
--->
+1. Navigate to the intake log:
+   - Review the priority table to determine what priority the request falls under.
+   - Review the questions above so you're ready to complete the intake form.
+2. Click **Submit Documentation Update Request** and complete the fields:
+   - Summary (title of the request)
+   - Description (answers to the questions above)
+   - Priority (per the table)
+   - Target completion date (an estimate is fine)
+   - Name and email of the requester
+3. Click **Submit** — this auto-labels the ticket (doc-required) created from the form.
+4. Open the **Not Started** tab of the backlog table and click **Refresh**. The new request appears at the top of the list.
