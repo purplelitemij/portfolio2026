@@ -1,6 +1,6 @@
 cv:
   name: Indira Jambulingam
-  label: Content Designer 
+  label: Content Strategist Writer
   email: indirajambu@gmail.com
   location: Silicon Valley
   image: "prof_pic_color.jpg"
@@ -168,8 +168,14 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+    Continued Learning:
+      - name: SEO
+        date: present
+        issuer: LinkedIN
         icon: fa-solid fa-location-dot
+
+      - name: AI for Technical Writers
+        date: present
+        issuer: LinkedIN
+        icon: fa-solid fa-location-dot   
+        
