@@ -5,9 +5,9 @@ description: A collection of sample documentation supporting past tech docs, kno
 importance: 8
 category: software-development
 ---
-This section list a few samples from my prior tech writing experience. Note that some of these are proprietary information and may be water marked.
+This section lists a few samples from my prior tech writing experience. Note that some of these may use proprietary information.
 
-### Model N Systems — Principal Technical Writer
+### Model N Systems - Principal Technical Writer
 
 Focus: Procedural and reference documentation for Revenue Cloud for High Tech (RC HT), Life Science (Contracts & Pricing).
 
@@ -19,7 +19,7 @@ Focus: Procedural and reference documentation for Revenue Cloud for High Tech (R
 - [Release Notes: Winter 2017, Release Pack 1, Hotfix 6]({{ "/assets/pdf/release-notes-winter-2017-rp1-hf6.pdf" | relative_url }})
 
 
-### Delphix Corp. — Staff Technical Writer
+### Delphix Corp. - Staff Technical Writer
 
 Focus: Knowledge Base strategy and process documentation.
 

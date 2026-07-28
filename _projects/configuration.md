@@ -7,7 +7,6 @@ category: software-development
 ---
 <i>The sample below is a configuration guide written during my tenure at JPMorganChase. Note that all proprietary information has been removed.</i>
 
-```
 ## Setup
 
 Follow the project guidelines on [Jules Setup](...).
@@ -250,4 +249,3 @@ Generating the bill of materials (sBOM) is not yet supported for C++.
 ## Troubleshooting
 
 If there is a gcc version that is not available, you must create your own build image with the toolchain installed. See your internal build-image guide for more information.
-```

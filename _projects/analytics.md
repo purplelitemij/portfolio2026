@@ -5,7 +5,7 @@ description: Sample initiatives aimed at better understanding customer behavior 
 importance: 2
 category: administration
 ---
-<i>The sample data was used to create an analytics exposure that supported documentation updates, reducing customer feedabck during my tenure at JPMorganChase. </i>
+<i>The sample data was used to create an analytics exposure that supported documentation updates, reducing customer feedback during my tenure at JPMorganChase.</i>
 
 As part of understanding how engineers actually used our documentation, I partnered with analytics to instrument a documentation portal (referred to below by the fictional name **Nimbus Docs**; the figures throughout are illustrative, not real production data) and track both where readers dropped off and what they were searching for but couldn't find. The two dashboards below are mock-ups in that same style: one on page traffic and usage, the other on search behavior and how it reshaped our content organization.
 
@@ -400,8 +400,8 @@ As part of understanding how engineers actually used our documentation, I partne
 
 | Finding | Action taken | Result |
 |---|---|---|
-| "credentials setup" and "error 403" were top zero-result queries &mdash; no page used that phrasing | Added alias tags mapping common support-ticket language to the credentials and auth pages, and retitled a buried section to match | Zero-result rate for those queries fell from 68% to 9% |
+| "credentials setup" and "error 403" were top zero-result queries: no page used that phrasing | Added alias tags mapping common support-ticket language to the credentials and auth pages, and retitled a buried section to match | Zero-result rate for those queries fell from 68% to 9% |
 | Search logs skewed task-based ("how do I install on LVDI") while the nav was organized by product area | Reorganized the top-level navigation around tasks/workflows instead of product areas | Overall zero-result rate fell from 27% to 11%; no-click rate fell from 27% to 18% |
 | "api authentication" ranked in the top 5 search terms but only existed buried inside a larger reference doc | Split it into its own page with a title matching the query | Average clicked position for that query improved from #4 to #1 |
 
-These changes fed directly into how I prioritized the documentation backlog each quarter &mdash; traffic and search-log data told us *where* to invest, and support-ticket tagging told us whether the fix actually worked.
+These changes fed directly into how I prioritized the documentation backlog each quarter: traffic and search-log data told us *where* to invest, and support-ticket tagging told us whether the fix actually worked.
