@@ -4,6 +4,8 @@ title: Documentation Intake
 description: Managing end-to-end documentation processes for docs-as code development.
 category: administration
 ---
+<i>The section below is a capture of the work entailed in creating a doc intake process during my tenure at JPMorganChase. Note that all proprietary information has been removed.</i>
+
 
 ## Overview
 

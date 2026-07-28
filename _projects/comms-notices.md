@@ -6,7 +6,7 @@ importance: 7
 category: software-development
 ---
 
-During my time at JPMorgan Chase, I owned the process for communicating major releases, features, changes, upgrades, and decommissions across the developer toolchain. 
+During my time at JPMorganChase, I owned the process for communicating major releases, features, changes, upgrades, and decommissions across the developer toolchain. 
 Engineering and Product Management own the *what* (the change itself), but they aren't always the right owners of the *how* to get the message in front of the right audience, in the right format, without breaking the firm's communication standards. **That's the gap this process closed.** 
 
 Engineering or Product Management would bring me the source information (by filling out an intake request or just looping me in directly) and I'd turn it into a reviewed, on-brand notice, publishing it through whichever channel actually reached the audience: email, the documentation portal, or in-product banners.
