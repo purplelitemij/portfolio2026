@@ -2,10 +2,10 @@
 
 **Relationship:** Technical Writer
 
-**Company:** JPMorgan Chase
+**Company:** JPMorganChase
 
 
-Danielle and I worked together for four+ years, collaborating closely as writers. Together, we co-architected the content for JPMC's enterprise toolchain, a static documentation portal. We have partnered to integrate the platform documentation and communications across the developer base. We co-authored the narrative direction and structural design of the work.
+Danielle and I worked together for four+ years, collaborating closely as writers. Together, we co-architected the content for JPMC's enterprise toolchain, a static documentation portal. We have partnered to integrate the platform documentation and communications across the developer base. We co-authored the narrative direction and structural design of the work. 
 
 ### Contact information
 
