@@ -1,0 +1,17 @@
+// Site-local style overrides.
+// This partial is loaded from a local assets/css/main.scss that mirrors the
+// al_folio_core theme's version with one added line (`@use "custom";`), so
+// these overrides survive `bundle update` without touching the theme gem.
+
+// Show only the magnifying-glass icon in the navbar search toggle — hide the
+// "ctrl k" / "⌘ k" hotkey label text next to it. The label is a bare text
+// node (not wrapped in its own element), so we zero out the parent's
+// font-size and restore the icon's size with `rem` (root-relative, so it's
+// unaffected by the parent's font-size: 0).
+#search-toggle .nav-link {
+  font-size: 0;
+
+  i {
+    font-size: 1rem;
+  }
+}

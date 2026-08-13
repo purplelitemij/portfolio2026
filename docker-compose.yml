@@ -1,0 +1,14 @@
+services:
+  jekyll:
+    build: .
+    ports:
+      - "4001:4000"
+      - "35730:35730"
+    volumes:
+      - .:/srv/jekyll
+      - bundle_gems:/usr/local/bundle
+    environment:
+      JEKYLL_ENV: development
+
+volumes:
+  bundle_gems:
